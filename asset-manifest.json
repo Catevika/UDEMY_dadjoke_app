@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UDEMY_dadjoke_app/static/css/main.3d07f25e.chunk.css",
+    "main.js": "/UDEMY_dadjoke_app/static/js/main.909a38f5.chunk.js",
+    "main.js.map": "/UDEMY_dadjoke_app/static/js/main.909a38f5.chunk.js.map",
+    "runtime~main.js": "/UDEMY_dadjoke_app/static/js/runtime~main.ffc40062.js",
+    "runtime~main.js.map": "/UDEMY_dadjoke_app/static/js/runtime~main.ffc40062.js.map",
+    "static/js/2.199fd749.chunk.js": "/UDEMY_dadjoke_app/static/js/2.199fd749.chunk.js",
+    "static/js/2.199fd749.chunk.js.map": "/UDEMY_dadjoke_app/static/js/2.199fd749.chunk.js.map",
+    "index.html": "/UDEMY_dadjoke_app/index.html",
+    "precache-manifest.a545f8fcdf0b8169405ac61223556fa8.js": "/UDEMY_dadjoke_app/precache-manifest.a545f8fcdf0b8169405ac61223556fa8.js",
+    "service-worker.js": "/UDEMY_dadjoke_app/service-worker.js",
+    "static/css/main.3d07f25e.chunk.css.map": "/UDEMY_dadjoke_app/static/css/main.3d07f25e.chunk.css.map"
+  }
+}
