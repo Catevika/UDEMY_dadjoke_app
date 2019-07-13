@@ -1,0 +1,104 @@
+/* --- LOADER ---
+change font size to change size */
+
+.loader {
+	font-size: 10px;
+	position: relative;
+	width: 4em;
+	height: 1em;
+	margin: 100px auto;
+}
+
+.dot {
+	width: 1em;
+	height: 1em;
+	border-radius: 0.5em;
+	background: #333;
+	position: absolute;
+	animation-duration: 0.5s;
+	animation-timing-function: ease;
+	animation-iteration-count: infinite;
+}
+
+.dot1,
+.dot2 {
+	left: 0;
+}
+
+.dot3 {
+	left: 1.5em;
+}
+
+.dot4 {
+	left: 3em;
+}
+
+@keyframes reveal {
+	from {
+		transform: scale(0.001);
+	}
+	to {
+		transform: scale(1);
+	}
+}
+
+@keyframes slide {
+	to {
+		transform: translateX(1.5em);
+	}
+}
+
+.dot1 {
+	animation-name: reveal;
+}
+
+.dot2,
+.dot3 {
+	animation-name: slide;
+}
+
+.dot4 {
+	animation-name: reveal;
+	animation-direction: reverse; /* thx @HugoGiraudel */
+}
+
+/* --- JOKE CONTAINER --- */
+
+.Joke-likes {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.Joke-counter {
+	margin: 0;
+	width: 32px;
+	line-height: 32px;
+	border: lightslategray solid 2px;
+	border-radius: 50%;
+	-moz-box-shadow: 5px 5px 3px 0px #cfcfcf;
+	-webkit-box-shadow: 5px 5px 3px 0px #cfcfcf;
+	-o-box-shadow: 5px 5px 3px 0px #cfcfcf;
+	box-shadow: 5px 5px 3px 0px #cfcfcf;
+	filter: progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=134, Strength=3);
+}
+
+.fas {
+	color: lightslategray;
+	font-size: 150%;
+	margin: 0.5em;
+}
+
+.fa-long-arrow-alt-up:hover {
+	color: darkgreen;
+}
+
+.fa-long-arrow-alt-down:hover {
+	color: darkred;
+}
+
+.Joke-emoji {
+	font-size: 150%;
+	margin: 0.5em;
+}
