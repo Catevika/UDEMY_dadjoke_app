@@ -5,17 +5,17 @@
     "main.js.map": "/UDEMY_dadjoke_app/static/js/main.c88d534a.chunk.js.map",
     "runtime-main.js": "/UDEMY_dadjoke_app/static/js/runtime-main.2c9a3ef9.js",
     "runtime-main.js.map": "/UDEMY_dadjoke_app/static/js/runtime-main.2c9a3ef9.js.map",
-    "static/js/2.93ea5f6f.chunk.js": "/UDEMY_dadjoke_app/static/js/2.93ea5f6f.chunk.js",
-    "static/js/2.93ea5f6f.chunk.js.map": "/UDEMY_dadjoke_app/static/js/2.93ea5f6f.chunk.js.map",
+    "static/js/2.c518d383.chunk.js": "/UDEMY_dadjoke_app/static/js/2.c518d383.chunk.js",
+    "static/js/2.c518d383.chunk.js.map": "/UDEMY_dadjoke_app/static/js/2.c518d383.chunk.js.map",
     "index.html": "/UDEMY_dadjoke_app/index.html",
-    "precache-manifest.7a25a81a19c79e71febd60f9880e67ae.js": "/UDEMY_dadjoke_app/precache-manifest.7a25a81a19c79e71febd60f9880e67ae.js",
+    "precache-manifest.e23a0fc753aaf9e60a5dd13d9a8fc46c.js": "/UDEMY_dadjoke_app/precache-manifest.e23a0fc753aaf9e60a5dd13d9a8fc46c.js",
     "service-worker.js": "/UDEMY_dadjoke_app/service-worker.js",
     "static/css/main.a627a8f6.chunk.css.map": "/UDEMY_dadjoke_app/static/css/main.a627a8f6.chunk.css.map",
-    "static/js/2.93ea5f6f.chunk.js.LICENSE.txt": "/UDEMY_dadjoke_app/static/js/2.93ea5f6f.chunk.js.LICENSE.txt"
+    "static/js/2.c518d383.chunk.js.LICENSE.txt": "/UDEMY_dadjoke_app/static/js/2.c518d383.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2c9a3ef9.js",
-    "static/js/2.93ea5f6f.chunk.js",
+    "static/js/2.c518d383.chunk.js",
     "static/css/main.a627a8f6.chunk.css",
     "static/js/main.c88d534a.chunk.js"
   ]

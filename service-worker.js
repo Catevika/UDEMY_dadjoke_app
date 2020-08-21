@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UDEMY_dadjoke_app/precache-manifest.7a25a81a19c79e71febd60f9880e67ae.js"
+  "/UDEMY_dadjoke_app/precache-manifest.e23a0fc753aaf9e60a5dd13d9a8fc46c.js"
 );
 
 self.addEventListener('message', (event) => {

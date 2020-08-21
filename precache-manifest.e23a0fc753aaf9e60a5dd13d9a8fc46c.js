@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce09d7f38f6dcd6d244f28f3b6de6515",
+    "revision": "385977b003d9dd536b2754612fecbcbe",
     "url": "/UDEMY_dadjoke_app/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UDEMY_dadjoke_app/static/css/main.a627a8f6.chunk.css"
   },
   {
-    "revision": "18ab9a840b6359d03c50",
-    "url": "/UDEMY_dadjoke_app/static/js/2.93ea5f6f.chunk.js"
+    "revision": "11d4e62a66cb79f46b9e",
+    "url": "/UDEMY_dadjoke_app/static/js/2.c518d383.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/UDEMY_dadjoke_app/static/js/2.93ea5f6f.chunk.js.LICENSE.txt"
+    "url": "/UDEMY_dadjoke_app/static/js/2.c518d383.chunk.js.LICENSE.txt"
   },
   {
     "revision": "ee863c66717748f13a97",
